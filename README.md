@@ -67,3 +67,9 @@ http://127.0.0.1:8000/admin
 ### ⚙️ Admin Panel
 ![Admin](screenshots/Screenshot%202026-02-04%20135903.png)
 
+
+
+## Author
+Rakesh Malash
+Backend Developer
+
